@@ -8,5 +8,3 @@ My activities:
 - 🌱 I’m currently learning Golang and Flutter.
 - 💬 Ask me about Mobile Legends, and Anime.
 - 📫 How to reach me: t.me/sysfdn.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: I'm not comedian.
