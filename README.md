@@ -1,10 +1,23 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Syaifudin 👨‍💻
+</h1>
 
-Welcome to my github profile
+<p align='center'>
+  Currently learning <b>Menjadi Backend Developer dengan Golang</b> at <b>GITS.ID</b>
+</p>
 
-My activities:
+<p align='center'>
+  
+  <a href="https://t.me/sysfdn">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/sysfdn.me">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-- 🔭 I’m currently working on, mmm literaly im not working right now :(
-- 🌱 I’m currently learning Golang and Flutter.
-- 💬 Ask me about Mobile Legends, and Anime.
-- 📫 How to reach me: t.me/sysfdn.
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iniudin&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
