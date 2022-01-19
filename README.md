@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Currently learning <b>Menjadi Backend Developer dengan Golang</b> at <b>GITS.ID</b>
+  Break the limit
 </p>
 
 <p align='center'>
