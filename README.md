@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Syaifudin 👨‍💻
+  Halo 👋 , kenalin saya Syaifudin 👨‍💻
 </h1>
 
 <p align='center'>
-  Break the limit
+  Lagi Pushrank di Flutter dan Golang, dan terbuka untuk diajak kolaborasi bareng.
 </p>
 
 <p align='center'>
