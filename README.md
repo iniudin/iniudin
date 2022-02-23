@@ -11,7 +11,7 @@
   <a href="https://t.me/sysfdn">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/sysfdn.me">
+  <a href="https://instagram.com/syaifudin.me">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
