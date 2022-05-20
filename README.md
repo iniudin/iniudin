@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Halo 👋 , kenalin saya Syaifudin 👨‍💻
+  Halo 👋 , perkenalkan saya Syaifudin 👨‍💻
 </h1>
 
 <p align='center'>
-  Lagi Pushrank di Flutter dan Golang, dan terbuka untuk diajak kolaborasi bareng.
+  Saat ini saya sedang belajar tentang Flutter dan Golang, dan sangat terbuka untuk berkolaborasi. 
 </p>
 
 <p align='center'>
@@ -13,6 +13,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/syaifudin.me">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sysfdn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
