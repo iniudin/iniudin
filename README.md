@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Saat ini saya sedang belajar tentang Flutter dan Golang, dan sangat terbuka untuk berkolaborasi. 
+  Saat ini saya sedang belajar tentang Kotlin dan Golang, dan sedang menyelesaikan skripsi saya mengenai Software Defect dan Machine Learning. 
 </p>
 
 <p align='center'>
