@@ -1,17 +1,9 @@
 ### Halo 👋 , perkenalkan saya Syaifudin 👨‍💻
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/syaifudin_xyz)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syaifudin.xyz)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sysfdn)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/syaifudin16)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syaifudin.uno)
 
 ### Sedang dikerjakan
 Saat ini saya sedang mendalami production ready restful api.
-
-### Workspace
-![Pop!OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-![CPU](https://img.shields.io/badge/AMD%20Ryzen_7_5700U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Laptop](https://img.shields.io/badge/MSI%20Modern%2014-FF0000?style=for-the-badge&logo=msi&logoColor=white)
-
 
 ### Tech Stack
 Beberapa tech stack yang sedang saya pelajari dan saya gunakan
